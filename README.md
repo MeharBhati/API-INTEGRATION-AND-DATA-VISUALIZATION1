@@ -38,4 +38,23 @@ Throughout the development, I followed **best coding practices** by adding comme
 * **Development Environment** - Visual studio code.
 
 
+***Output***
+
+img width="1678" height="1182"< alt="Image" src="https://github.com/user-attachments/assets/2f1f3937-7957-4e76-8606-0dbc54b4afa2" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
